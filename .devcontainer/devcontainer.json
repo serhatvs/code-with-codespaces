@@ -3,7 +3,7 @@
      // Name this configuration
      "name": "Codespace for Skills!",
      // Use the base codespace image
-     "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2Farticles%2Fcm2edm5j923o&psig=AOvVaw0fIgeAVbIYCL66qlO0954I&ust=1765391274458000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDD74-RsZEDFQAAAAAdAAAAABAE",
+     "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
      "remoteUser": "codespace",
      "overrideCommand": false
